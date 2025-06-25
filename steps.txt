@@ -1,0 +1,13 @@
+INSTALL DEPENDENCIES:
+pip install -r requirements.txt
+
+RUN THE SERVER:
+python app.py
+
+OPEN IN BROWSER:
+Visit http://localhost:5000
+
+TEST ALL FEATURES:
+Initial fingerprint will load automatically
+Click "Apply Protection" to see standardized fingerprint
+Click "Generate Fake" to see a completely synthetic fingerprint
